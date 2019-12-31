@@ -1,5 +1,10 @@
 import React from 'react';
-// import './App.css';
+import ReactDOM from 'react-dom';
+
+/*
+import { Provider } from 'react-redux';
+import store from './store';
+*/
 
 class App extends React.Component {
   constructor(props) {
